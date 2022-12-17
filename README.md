@@ -12,7 +12,7 @@ Neste teste o candidado deve realizar a implamentação de uma funcionalidade se
 
   Uma rede de lojas chamada **Vende Bem** está desenvolvendo o seu e-commerce e você foi designado para codificação do **Commando AddItemCarrinho do Agregado Carrinho**.
 
-# Políticas
+## Políticas
 
 1. Os produtos dentro de um **Carrinho** são denominados **Itens**
 1. Cada **Item** do **Carrinho** é composto por: **ID**: um identificador numérico do produto; **PREÇO UNITÁRIO**: o valor a ser pago pelo cliente na compra de uma unidade daquele produto; **QUANTIDADE**: representa a quantidade de unidadas daquele item no carrinho;
