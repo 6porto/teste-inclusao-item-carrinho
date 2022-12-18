@@ -5,7 +5,7 @@ Neste teste o candidado deve realizar a implamentação de uma funcionalidade se
 
 ## Premissas
 1. o desenvolvimento deve ser realizado em **typescript**
-1. a implementação deve ser publicada no **github**
+1. a implementação deve ser publicada no **github** através de um **pull request** para este projeto
 
 
 ## Contextualização e Escopo
