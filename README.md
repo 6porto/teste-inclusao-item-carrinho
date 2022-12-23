@@ -19,3 +19,9 @@ Neste teste o candidado deve realizar a implamentação de uma funcionalidade se
 1. Os produtos vendidos pela **Vende Bem** são classificados como **CATEGORIA 1** e **CATEGORIA 2**
 1. Os produtos da **Categoria 1** podem ser adicionados ao **Carrinho** de forma multipla. Ou seja, se o usuário adicionar 1 unidade deste produto ao **Carrinho**, um novo **Item** deve ser adicionado contendo a **QUANTIDADE** = 1. Caso outro produto igual seja adicionado neste mesmo **Carrinho**, a **QUANTIDADE** deve ser somada.
 1. Os produtos da **Categoria 2** devem sempre ser adicionados ao **Carrinho** de forma individual. Ou seja, se o usuário adicionar 1 unidade deste produto ao **Carrinho**, um novo item deve ser adicionado contendo a **QUANTIDADE** = 1. Caso outro produto igual seja adiciona neste mesmo **Carrinho**, um novo item deve ser incluído ao **Carrinho** também com a quantidade 1
+
+## Testando
+
+Para testar basta executar o comando:
+
+- node index.js
